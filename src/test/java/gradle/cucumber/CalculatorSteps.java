@@ -1,5 +1,6 @@
 package gradle.cucumber;
 
+import jdk.jfr.Registered;
 import org.junit.Assert;
 
 import cucumber.api.java.en.Given;
